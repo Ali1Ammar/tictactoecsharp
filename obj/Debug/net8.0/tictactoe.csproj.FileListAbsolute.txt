@@ -1,0 +1,14 @@
+/Users/aliammar/Desktop/personal/csharp/tictactoe/bin/Debug/net8.0/tictactoe
+/Users/aliammar/Desktop/personal/csharp/tictactoe/bin/Debug/net8.0/tictactoe.deps.json
+/Users/aliammar/Desktop/personal/csharp/tictactoe/bin/Debug/net8.0/tictactoe.runtimeconfig.json
+/Users/aliammar/Desktop/personal/csharp/tictactoe/bin/Debug/net8.0/tictactoe.dll
+/Users/aliammar/Desktop/personal/csharp/tictactoe/bin/Debug/net8.0/tictactoe.pdb
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.AssemblyInfoInputs.cache
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.AssemblyInfo.cs
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.csproj.CoreCompileInputs.cache
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.dll
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/refint/tictactoe.dll
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.pdb
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/tictactoe.genruntimeconfig.cache
+/Users/aliammar/Desktop/personal/csharp/tictactoe/obj/Debug/net8.0/ref/tictactoe.dll
